@@ -1,0 +1,7 @@
+
+avg promedio;
+count()= contador de filas 
+min = minimo 
+max = maximo
+sum = suma de el cotenido de campos numericos
+
